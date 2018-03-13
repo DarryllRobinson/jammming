@@ -1,0 +1,11 @@
+Good day
+
+Unfortunately, South Africa doesn't have Spotify yet so I had to hardcode the responses based on example code I could find on the internet or Spotify's documentation. As luck would have it, Spotify actually launched here today which put me in the difficult position of starting over with active APIs or handing my project in, as-is. I'm afraid I am too weak and took the latter option; please forgive me.
+
+I got most of the functionality to work but struggled for days to hook up the Spotify.js functions to the right components. It was also really tough to get the application to respond as expected without having the proper Spotify response to work with. I could keep trying and would probably get it right eventually but right now, I need to use my newfound skills to create a content management system for my start-up.
+
+Thanks for a fun course!
+
+Regards
+
+Darryll
